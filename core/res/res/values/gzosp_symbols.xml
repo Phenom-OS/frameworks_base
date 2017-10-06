@@ -23,8 +23,4 @@
 
     <!-- Usb drive persistent notification -->
     <java-symbol type="bool" name="config_persistUsbDriveNotification" />
-
-    <!-- Wheter to enable doze always on -->
-    <java-symbol type="bool" name="config_enableDozeAlwaysOn"/>
-
 </resources>
